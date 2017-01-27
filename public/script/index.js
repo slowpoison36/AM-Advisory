@@ -17,7 +17,7 @@ function animate(){
         
     }
     
-    setTimeout(animate,100);
+    setTimeout(animate,200);
 }
 
 animate();

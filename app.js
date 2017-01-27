@@ -10,11 +10,15 @@ app.use(express.static("public"));
 app.get("/",function(req,res){
     res.render("home");
 });
-
+//Contact Route
 app.get("/contact",function(req,res){
     res.render("contact");
 })
 
+//Service Route
+app.get("/service",function(req,res){
+    res.render("service");
+})
 
 
 
