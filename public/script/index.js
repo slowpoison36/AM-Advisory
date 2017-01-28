@@ -35,4 +35,15 @@ function imgSlider(){
     setTimeout(imgSlider,3000);
 }
 
+
 imgSlider();
+
+
+
+
+
+
+
+
+
+
